@@ -26,7 +26,7 @@ This repository contains:
 
 ## Features
 
-### Smart Contracts
+### Smart Contracts (contracts_foundry folder)
 
 * UUPS upgradeable proxy
 * EIP-1967-compliant implementation storage
@@ -143,7 +143,7 @@ The backend will:
 In **terminal 2**:
 
 ```bash
-cd asset-token-ui
+cd frontend
 npm install
 npm run dev
 ```
